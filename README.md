@@ -1,4 +1,5 @@
 stock.py automatically prints a summary for your stocks today in the following format after you input a summary from the previous trading day in the same format, and let the program know which stocks you bought/sold during the day.
+
 earnings.py provides different functions for knowing which companies have upcoming earnings reports.
 
 <pre>
